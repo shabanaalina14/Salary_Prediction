@@ -6,7 +6,6 @@ This project demonstrates how to predict salaries based on different factors usi
 
 Introduction
 Technologies Used
-Dataset
 Model Development
 Project Structure
 
@@ -15,17 +14,13 @@ Project Structure
 Salary prediction is a common task in the data science domain. The goal of this project is to create a model that can accurately predict a person's salary based on various features such as years of experience, job role, education level, and location. The project uses machine learning algorithms like Linear Regression, Decision Trees, and Random Forest to build and evaluate the predictive model.
 
 
-# Example features in the dataset:
+git clone https://github.com/shabanaalina14/Salary_Prediction/tree/main
 
-Years of experience
-Education level
-Job role
-Industry
-Location
-Age
-Gender (optional)
-Model Development
-In this project, we have used the following machine learning algorithms to predict salaries:
+Contact For any questions or suggestions, please feel free to reach.
 
-https://github.com/shabanaalina14/Salary_Prediction/tree/main
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
 
